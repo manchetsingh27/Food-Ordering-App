@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.hero {
+    background: linear-gradient(to right, #ff512f, #dd2476);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.hero h1 {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.food-card {
+    border: none;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.food-img {
+    height: 220px;
+    object-fit: cover;
+}
